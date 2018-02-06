@@ -1,0 +1,40 @@
+changePasswordOfAgent;[ers-std, ers-std-agent-portal, ers-std-agent-portal-change-password, bs-newco, bs-newco-agent-portal, bs-newco-agent-portal-change-password];7/8
+resetAgentPageFields;[bs-newco-agent-portal-agent-reset, ers-std, ers-std-agent-portal, bs-newco, bs-newco-agent-portal, ers-std-agent-portal-agent-reset];1/1
+resetChangePasswordFields;[ers-std, ers-std-agent-portal, bs-newco-agent-portal-change-password-reset, bs-newco, ers-std--agent-portal-change-password-reset, bs-newco-agent-portal];1/1
+resetCreditTransferFields;[ers-std-agent-portal-credit-transfer-reset, bs-newco-agent-portal-credit-transfer-reset, ers-std, ers-std-agent-portal, bs-newco, bs-newco-agent-portal];1/1
+resetMultipleTransactionsPageFields;[ers-std-agent-portal-multi-transaction-search-reset, ers-std, ers-std-agent-portal, bs-newco, bs-newco-agent-portal, bs-newco-agent-portal-multi-transaction-search-reset];1/1
+resetSingleTransactionPageFields;[bs-newco-agent-portal-single-transaction-search-reset, ers-std, ers-std-agent-portal, bs-newco, bs-newco-agent-portal, ers-std-agent-portal-single-transaction-search-reset];2/2
+resetSubscriberTopupFields;[bs-newco-agent-portal-topup-reset, ers-std, ers-std-agent-portal, bs-newco, bs-newco-agent-portal, ers-std-agent-portal-topup-reset];2/2
+searchAgentAndVerifyDetails;[ers-std, ers-std-agent-portal, ers-std-agent-portal-search-agent];7/7
+searchTransactionWithReferenceNo;[ers-std, ers-std-agent-portal, ers-std-agent-portal-single-transaction-search, bs-newco-agent-portal-single-transaction-search, bs-newco, bs-newco-agent-portal];3/3
+subscriberTopupTest;[ers-std, ers-std-agent-portal, bs-newco, ers-std-agent-portal-topup, bs-newco-agent-portal, bs-newco-agent-portal-topup];9/9
+validateAccountInformation;[ers-std, ers-std-agent-portal, bs-newco, bs-newco-agent-portal, bs-newco-agent-portal-account-info-validation, ers-std-agent-portal-account-info-validation];1/1
+verifyBulkCreditTransfer;[ers-std, ers-std-agent-portal, bs-newco, ers-std-agent-portal-bulk-credit-transfer, bs-newco-agent-portal, bs-newco-agent-portal-bulk-credit-transfer];0/1
+verifyCreditTransfer;[bs-newco-agent-portal-credit-transfer, ers-std, ers-std-agent-portal, ers-std-agent-portal-credit-transfer, bs-newco, bs-newco-agent-portal];9/9
+balanceEnquiry;[ers-std-ussd, ers-std, ers-std-ussd-balance-enquiry];2/2
+channelUserSalesByPeriodReportTest;[ers-std-ussd, ers-std, ers-std-ussd-channel-user-sales-report];6/6
+myDepositsTodayReportTest;[ers-std-ussd, ers-std, ers-std-ussd-deposit-today, bs-newco, bs-newco-ussd, bs-newco-ussd-deposit-today];2/2
+resellerChangePinTest;[ers-std-ussd, ers-std, bs-newco, bs-newco-ussd, ers-std-ussd-reseller-change-pin, bs-newco-ussd-reseller-change-pin];5/5
+salesReportByPeriodTest;[ers-std-ussd, ers-std-ussd-sales-report-by-period, ers-std, bs-newco, bs-newco-ussd, bs-newco-ussd-sales-report-by-period];1/1
+subscriberRegisterTest;[bs-newco-ussd-subscriber-registration, ers-std-ussd, ers-std, bs-newco, bs-newco-ussd, ers-std-ussd-subscriber-registration];3/3
+subscriberChangePinTest;[ers-std-ussd, ers-std, bs-newco-ussd-subscriber-change-pin, bs-newco, bs-newco-ussd, ers-std-ussd-subscriber-change-pin];4/5
+verifyCreditTransfer;[ers-std-ussd, ers-std, bs-newco, bs-newco-ussd, bs-newco-ussd-R2R, ers-std-ussd-R2R];11/11
+verifyCreditTransferBetweenRegions;[ers-std-ussd, bs-newco-ussd-region-credit-transfer, ers-std, bs-newco, ers-std-ussd-region-credit-transfer, bs-newco-ussd];47/47
+cleanupRegionConfigInTxe;[ers-std-ussd, bs-newco-ussd-region-credit-transfer, ers-std, bs-newco, ers-std-ussd-region-credit-transfer, bs-newco-ussd];1/1
+verifyLastTransactionStatus;[ers-std-ussd, ers-std-ussd-last-transaction, ers-std];3/3
+verifyP2PTopupTest;[bs-newco-ussd-p2p-topup, ers-std-ussd, ers-std, bs-newco, bs-newco-ussd, ers-std-ussd-p2p-topup];1/1
+verifySalesReportSubMenu;[ers-std-ussd, ers-std-ussd-report-menu, ers-std, bs-newco-ussd-report-menu, bs-newco, bs-newco-ussd];2/2
+verifySalesReportToday;[bs-newco-ussd-sales-report-today, ers-std-ussd, ers-std, bs-newco, ers-std-ussd-sales-report-today, bs-newco-ussd];2/2
+verifyTransactionStatus;[ers-std-ussd-transaction-status, ers-std-ussd, ers-std];2/2
+verifyUSSDMenu;[ers-std-ussd-menu, ers-std-ussd, ers-std, bs-newco, bs-newco-ussd, bs-newco-ussd-menu];1/1
+verifyRequestBlockReseller;[ers-std-soap-block-reseller, bs-newco-topup-service, ers-std, bs-newco-soap-block-reseller, bs-newco, ers-std-topup-service];1/2
+verifyRequestPrincipalInformation;[bs-newco-soap-principal-information, ers-std-soap-principal-information, bs-newco-topup-service, ers-std, bs-newco, ers-std-topup-service];2/2
+verifyRequestPurchase;[bs-newco-soap-purchase-voucher, bs-newco-topup-service, ers-std-soap-purchase-voucher, ers-std, bs-newco, ers-std-topup-service];5/5
+verifyRequestTopup;[bs-newco-topup-service, ers-std, ers-std-soap-topup, bs-newco, ers-std-topup-service, bs-newco-soap-topup];3/3
+verifyRequestTransfer;[bs-newco-topup-service, ers-std-soap-transfer, ers-std, bs-newco, ers-std-topup-service, bs-newco-soap-transfer];3/3
+verifyRequestUnBlockReseller;[bs-newco-topup-service, bs-newco-soap-unblock-reseler, ers-std-soap-unblock-reseller, ers-std, bs-newco, ers-std-topup-service];0/1
+purchaseVoucherOverUSSD;[ers-std-ussd, ers-std, ers-std-ussd-purchase-voucher-over-ussd];1/1
+topupTest;[ers-std-ussd, ers-std, bs-newco, ers-std-ussd-topup, bs-newco-ussd, bs-newco-ussd-topup];7/7
+purchaseVoucherOverSMS;[ers-std-ussd, ers-std, ers-std-ussd-purchase-voucher-over-sms];2/2
+myDepositsByPeriodReportTest;[ers-std-ussd-deposit-by-period, ers-std-ussd, ers-std, bs-newco, bs-newco-ussd, bs-newco-ussd-deposit-by-period];6/6
+resellerActivation;[ers-std-ussd, ers-std, bs-newco, ers-std-ussd-register-reseller, bs-newco-ussd, bs-newco-ussd-register-reseller];2/2

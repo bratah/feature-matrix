@@ -1,0 +1,3 @@
+anonymousIdTest;[ussd-anonymous-id];0/1
+checkPlanSales;[ussd-plan-sales];3/3
+verifyPlanSales;[agent-portal-plan-sales];2/2

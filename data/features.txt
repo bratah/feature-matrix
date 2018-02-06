@@ -1,0 +1,14 @@
+Validate account information=bs-newco-agent-portal-account-info-validation, ers-std-agent-portal-account-info-validation
+R2R Credit Transfer=bs-newco-agent-portal-credit-transfer, ers-std-agent-portal-credit-transfer
+R2S TopUp=bs-newco-agent-portal-topup, ers-std-agent-portal-topup
+Single transaction search=bs-newco-agent-portal-single-transaction-search,ers-std-agent-portal-single-transaction-search
+Search agents=ers-std-agent-portal-search-agent
+Change Password=bs-newco-agent-portal-change-password,ers-std-agent-portal-change-password
+Reset Page data=bs-newco-agent-portal-topup-reset, ers-std-agent-portal-topup-reset, bs-newco-agent-portal-credit-transfer-reset, ers-std-agent-portal-credit-transfer-reset, bs-newco-agent-portal-agent-reset, ers-std-agent-portal-agent-reset, bs-newco-agent-portal-single-transaction-search-reset, ers-std-agent-portal-single-transaction-search-reset, bs-newco-agent-portal-multi-transaction-search-reset, ers-std-agent-portal-multi-transaction-search-reset, bs-newco-agent-portal-change-password-reset,ers-std--agent-portal-change-password-reset
+Bulk Credit Transfer=ers-std-agent-portal-bulk-credit-transfer, bs-newco-agent-portal-bulk-credit-transfer
+Register Users=bs-newco-agent-portal-register-users
+Search Users=bs-newco-agent-portal-search-users
+Bulk Topup=bs-newco-agent-portal-bulk-topup
+Plan Sales=bs-newco-agent-plan-sales
+Verify USSD Menu=bs-newco-ussd-menu,ers-std-ussd-menu
+R2R Credit Transfer=bs-newco-ussd-R2R, ers-std-ussd-R2R
